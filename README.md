@@ -1,2 +1,3 @@
-# bees-brewery-case
-bees-brewery-case
+# BEES Data Engineering – Breweries Case
+
+Projeto completo baseado na arquitetura Medallion...
